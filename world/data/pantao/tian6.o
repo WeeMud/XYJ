@@ -1,0 +1,5 @@
+#/d/pantao/npc/tian6.c
+dbase (["kee":1000,"age":100,"weapon":0,"max_kee":1000,"long":"蟠桃会封榜天神。","eff_kee":1000,"title":"蟠桃会封榜天神","race":"人类","gin":1000,"per":30,"spi":23,"con":18,"force_factor":50,"cor":19,"int":30,"cps":12,"str":30,"mana":1000,"kar":17,"current_player":"none of us","gender":"男性","startroom":"/d/pantao/palace6","id":"tian shen","name":"火曜星君","new_player":1,"sen":1000,"max_gin":1000,"combat_exp":200000,"daoxing":200000,"no_unconcious":1,"armor":0,"attitude":"heroism","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"eff_gin":1000,"unit":"位","actions":,"default_actions":,"max_force":1000,"force":2000,"eff_sen":1000,"short":"火曜星君(Tian shen)","max_sen":1000,"can_speak":1,"max_mana":1000,])
+skills (["dodge":100,"sword":100,"unarmed":100,"parry":100,"spells":100,"force":100,])
+learned (["dodge":0,"sword":0,"unarmed":0,"parry":0,"spells":0,"force":0,])
+skill_map ([])

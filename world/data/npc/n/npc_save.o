@@ -1,0 +1,3 @@
+#/d/city/npc/giftman.c
+dbase (["actions":,"channel":(["tell_count":3,]),"race":"人类","gin":128,"eff_gin":128,"unit":"位","long":"一个被供养得胖胖的灶王爷，正冲着你笑．","title":"南城客栈","attitude":"friendly","max_sen":228,"per":22,"max_kee":192,"spi":14,"eff_sen":228,"eff_kee":192,"con":21,"combat_exp":2000,"cor":27,"age":16,"int":24,"cps":15,"str":12,"kee":192,"kar":29,"default_actions":,"yqm":(["#00zJg89kP":"null","null":(["00zJg89kP":1,]),]),"sen":228,"gender":"男性","can_speak":1,"id":"zao wangye","name":"灶王爷","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"max_gin":128,])
+SAVE_NAME "npc_save"

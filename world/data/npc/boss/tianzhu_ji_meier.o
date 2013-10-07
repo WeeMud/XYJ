@@ -1,0 +1,7 @@
+#/d/qujing/tianzhu/npc/ji.c
+dbase (["eff_kee":368,"kar":12,"startroom":"/d/qujing/tianzhu/xiedian","mana":0,"vendor_goods":(["yunxue":"/d/qujing/tianzhu/obj/yunxue","ji":"/d/qujing/tianzhu/obj/shanji","pixue":"/d/qujing/tianzhu/obj/pixue",]),"sen":256,"eff_gin":220,"gin":220,"gender":"女性","max_gin":220,"combat_exp":2000,"name":"季梅儿","id":"ji meier","eff_sen":256,"attitude":"friendly","can_speak":1,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"shen_type":1,"race":"人类","force":0,"default_actions":,"actions":,"shop_id":({"jimeier","ji","meier",}),"per":30,"spi":20,"max_sen":256,"con":30,"age":20,"cor":12,"unit":"位","atman":0,"int":13,"kee":368,"cps":28,"str":17,"max_kee":368,])
+skills (["unarmed":30,])
+learned (["unarmed":0,])
+SAVE_NAME "tianzhu_ji_meier"
+price_ratio 10
+close_time 1381173679

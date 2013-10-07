@@ -1,0 +1,7 @@
+#/d/qujing/qinfa/npc/qian.c
+dbase (["eff_kee":-1,"kar":12,"startroom":"/d/qujing/qinfa/zahuopu","mana":0,"vendor_goods":(["bag":"/d/obj/misc/bag","kuang":"/d/obj/misc/kuang","shaozhou":"/d/obj/misc/shaoba",]),"sen":286,"eff_gin":276,"gin":276,"max_gin":276,"gender":"女性","combat_exp":5001,"id":"qian guafu","name":"钱寡妇","eff_sen":286,"attitude":"friendly","disable_type":" <昏迷不醒>","can_speak":1,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"shen_type":1,"race":"人类","force":0,"default_actions":,"potential":66,"actions":,"shop_id":({"guafu","fu",}),"per":21,"spi":11,"max_sen":286,"con":18,"age":30,"bellicosity":0,"cor":18,"unit":"位","atman":0,"last_sleep":1380847255,"int":12,"kee":-1,"cps":18,"str":25,"max_kee":546,])
+skills (["unarmed":30,"dodge":1,"parry":1,])
+learned (["unarmed":482,"dodge":0,"parry":3,])
+SAVE_NAME "qinfa_qian_guafu"
+price_ratio 10
+close_time 1381172212

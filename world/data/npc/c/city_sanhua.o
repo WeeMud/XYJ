@@ -1,0 +1,7 @@
+#/d/city/npc/sanhua-counter.c
+dbase (["kar":29,"eff_kee":2016,"attitude":"heroism","long":"三花堂的小喽罗，虽然武功不怎么样，但心黑手辣，也不好惹。","startroom":"/d/city/sanhua-mishi","can_speak":1,"race":"人类","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"default_actions":,"actions":,"sen":432,"eff_gin":260,"gin":260,"combat_exp":10221,"per":26,"gender":"男性","max_gin":260,"max_sen":432,"spi":20,"name":"打手","id":"da shou","con":25,"age":22,"unit":"位","cor":28,"kee":2016,"int":29,"eff_sen":432,"cps":15,"max_kee":2016,"str":200,])
+skills (["unarmed":20,"blade":20,"parry":20,"dodge":20,])
+learned (["unarmed":0,"blade":0,"parry":0,"dodge":0,])
+SAVE_NAME "city_sanhua"
+list ([])
+last_time 1381098230

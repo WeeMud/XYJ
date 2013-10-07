@@ -1,0 +1,9 @@
+#/d/huanggong/npc/wu43.c
+dbase (["kee":100,"age":18,"max_kee":100,"weapon":0,"eff_gin":100,"eff_kee":100,"can_speak":1,"potential":1,"unit":"位","title":"铁榜探花","per":30,"spi":22,"con":12,"force_factor":1,"cor":21,"int":30,"cps":15,"str":30,"mana":10,"kar":30,"gender":"男性","id":"jin shi","name":"武进士","startroom":"/d/huanggong/ywc4c","sen":100,"max_gin":100,"combat_exp":100,"daoxing":100,"armor":0,"gin":100,"long":"铁榜探花。","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"channel":(["tell_count":1,]),"current_player":"none of us","attitude":"heroism","actions":,"new_player":1,"max_force":10,"force":10,"default_actions":,"eff_sen":100,"short":"武进士(Jin shi)","max_sen":100,"max_mana":10,"no_unconcious":1,"race":"人类",])
+skills (["dodge":1,"sword":1,"unarmed":1,"parry":1,"spells":1,"force":1,])
+learned (["dodge":0,"sword":0,"unarmed":0,"parry":0,"spells":0,"force":0,])
+skill_map ([])
+categories ({"金榜","银榜","铜榜","铁榜","锡榜",})
+positions ({"状元","榜眼","探花",})
+limits ({200000,100000,50000,10000,1000,})
+rooms ({"b","a","c",})
